@@ -35,3 +35,6 @@ The contents and data contained therein are released under the Creative Commons 
 Reading a local copy of the **<em>csv</em>** file (containing the data to be visualized) may be disallowed by some browsers. In order to set up a local environment you will need to either be running a local web server or simulating one. You could, for example, use the **<em>node.js http-server</em>** module.
 
 For more detailed instructions please see the [D3 Wiki](https://github.com/d3/d3/wiki#local-development) and the [node.js documentation](https://www.npmjs.com/package/http-server)
+
+### Demo
+There is a demonstration site at [http://lensoftware.com.au/presentations/2017-05-08](http://lensoftware.com.au/presentations/2017-05-08)
