@@ -37,4 +37,4 @@ Reading a local copy of the **<em>csv</em>** file (containing the data to be vis
 For more detailed instructions please see the [D3 Wiki](https://github.com/d3/d3/wiki#local-development) and the [node.js documentation](https://www.npmjs.com/package/http-server)
 
 ### Demo
-There is a demonstration site at [http://lensoftware.com.au/presentations/2017-05-08](https://lensoftware.com/presentations/2017-05-08)
+There is a demonstration site at [https://lensoftware.com/presentations/2017-05-08](https://lensoftware.com/presentations/2017-05-08)
