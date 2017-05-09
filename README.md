@@ -7,7 +7,7 @@
 
   * Author: tlenz@lensoftware.com
   * Language: JavaScript
-  * Summary : This work is a Sunburst visualization of datasets released by the of the Department of Treasury and Finance in the State of Victoria
+  * Summary : This work is a Sunburst visualization of datasets released by the of the Department of Treasury and Finance in the State of Victoria, Australia
 	in a publication ["Budget Paper No. 3 - Service Delivery 2017-18"](https://s3-ap-southeast-2.amazonaws.com/budgetfiles201718.budget.vic.gov.au/Overview.pdf) 
 
 ### License
@@ -28,7 +28,7 @@ It also makes use of:-
   * **Open Sans font** License: Apache 2.0
 
 ### Data Source
-The data sources are taken from a publication by the of the Department of Treasury and Finance in the State of Victoria ["Budget Paper No. 3 - Service Delivery 2017-18"](https://s3-ap-southeast-2.amazonaws.com/budgetfiles201718.budget.vic.gov.au/Overview.pdf) . 
+The data sources are taken from a publication by the of the Department of Treasury and Finance in the State of Victoria, Australia ["Budget Paper No. 3 - Service Delivery 2017-18"](https://s3-ap-southeast-2.amazonaws.com/budgetfiles201718.budget.vic.gov.au/Overview.pdf) . 
 The contents and data contained therein are released under the Creative Commons Attribution 4.0 License. 
 
 ### Instructions
@@ -37,4 +37,4 @@ Reading a local copy of the **<em>csv</em>** file (containing the data to be vis
 For more detailed instructions please see the [D3 Wiki](https://github.com/d3/d3/wiki#local-development) and the [node.js documentation](https://www.npmjs.com/package/http-server)
 
 ### Demo
-There is a demonstration site at [http://lensoftware.com.au/presentations/2017-05-08](http://lensoftware.com.au/presentations/2017-05-08)
+There is a demonstration site at [http://lensoftware.com.au/presentations/2017-05-08](https://lensoftware.com/presentations/2017-05-08)
