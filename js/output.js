@@ -1,11 +1,11 @@
 /****************************************************************************************** 
 *                                                                                         *
 * Based on example at: https://bl.ocks.org/kerryrodden/766f8f6d31f645c39f488a0befa1e3c8   *
-* License: Apache 2 License
+* License: Apache 2 License                                                               *
 *                                                                                         *
 *******************************************************************************************/
 
-// Dimensions of sunburst.
+// Dimensions of sunburst
 var width = 600;
 var height = 600;
 var radius = Math.min(width, height) / 2;
@@ -32,13 +32,6 @@ var colors = {
   "Treasury and Finance": "#ff783b",
   "Whole of Government": "#bbbbbb"  
 }; 
-
-/* Hold: 2ab6b9 teal
-purple: a173d1
-reddish: e54e5b
-*/
-
-
 
 // Total size of all segments; we set this later, after loading the data.
 var totalSize = 0; 
@@ -111,12 +104,15 @@ function createVisualization(json) {
 
 // Fade all but the current sequence, and show it in the breadcrumb trail.
 function mouseover(d) {
-
   var percentage = (100 * d.value / totalSize).toPrecision(3);
   var percentageString = percentage + "%";
   if (percentage < 0.1) {
     percentageString = "< 0.1%";
   }
+  
+  d3.select(".instructions")
+      .style("visibility", "hidden")
+	  .style("display", "none");
 
   d3.select("#percentage")
       .text(percentageString);
