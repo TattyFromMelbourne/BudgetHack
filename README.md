@@ -16,7 +16,7 @@ This work is released under an Apache 2.0 license. Please see the included `LICE
 
 This work is based on the **Sunburst visualization example** by Kerry Rodden at <a href="https://bl.ocks.org/kerryrodden/766f8f6d31f645c39f488a0befa1e3c8" target="_blank">https://bl.ocks.org/kerryrodden/766f8f6d31f645c39f488a0befa1e3c8</a> License: Apache 2.0
 
-This work is incorporates the following JavaScript libraries:-
+This work incorporates the following JavaScript libraries:-
 
   * **D3.js** License: BSD 3
   * **Bootstrap** License: MIT
