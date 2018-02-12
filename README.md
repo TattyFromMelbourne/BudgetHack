@@ -1,4 +1,4 @@
-# BudgetHack 
+# Visualization Exrecise 
 
 ## Visualization of Allocated Spending on Service Delivery by the Victorian Government in the Financial Year 2017 to 2018
 
